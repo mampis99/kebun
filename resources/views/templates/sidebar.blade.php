@@ -55,18 +55,18 @@
               <p>Perusahaan</p>
             </a>
           </li>
-          <li class="nav-item">
+          {{-- <li class="nav-item">
             <a href="{{ route('kebun') }}" class="nav-link">
               <i class="nav-icon fas fa-file"></i>
               <p>Kebun</p>
             </a>
-          </li>
-          <li class="nav-item">
+          </li> --}}
+          {{-- <li class="nav-item">
             <a href="{{ route('node') }}" class="nav-link">
               <i class="nav-icon fas fa-file"></i>
               <p>Node</p>
             </a>
-          </li>
+          </li> --}}
           <li class="nav-item">
             <a href="{{ route('fitur') }}" class="nav-link">
               <i class="nav-icon fas fa-file"></i>
@@ -86,12 +86,12 @@
               <p>User</p>
             </a>
           </li>
-          <li class="nav-item">
+          {{-- <li class="nav-item">
             <a href="{{ route('user-roles') }}" class="nav-link">
               <i class="nav-icon fas fa-file"></i>
               <p>User Roles</p>
             </a>
-          </li>
+          </li> --}}
           {{-- <li class="nav-item">
             <a href="{{ route('user-roles-form') }}" class="nav-link">
               <i class="nav-icon fas fa-file"></i>
